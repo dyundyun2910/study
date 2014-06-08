@@ -1,0 +1,9 @@
+C:\work\git\study\tmp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\work\git\study\tmp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\work\git\study\tmp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SampleForm.resources
+C:\work\git\study\tmp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\work\git\study\tmp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\work\git\study\tmp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\work\git\study\tmp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\work\git\study\tmp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\work\git\study\tmp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
